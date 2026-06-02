@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Auto Poster",
+  "description": "Ứng dụng tự động đăng bài viết, hình ảnh, video đồng thời lên nhiều trang Facebook, tích hợp trợ lý AI tạo nội dung và thiết kế ảnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
